@@ -89,6 +89,10 @@ Customers with shorter commute distances are more likely to purchase bikes.
 
 Occupation and education level significantly influence customer purchasing behavior.
 
+📌 Regional Differences
+
+Bike purchase rates vary across different regions.
+
 📋 Project Workflow
 
 Raw Dataset
@@ -116,6 +120,4 @@ Sales Analytics
 KPI Reporting
 Storytelling with Data
 
-📌 Regional Differences
 
-Bike purchase rates vary across different regions.
